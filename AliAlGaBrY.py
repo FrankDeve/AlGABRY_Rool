@@ -2,7 +2,7 @@ import platform,os,sys
 
 def cetak(x,e=0):
 
-	w = 'mhkbpcP'	for i in w:
+	w = 'alialgabry'	for i in w:
 
 		j = w.index(i)
 
